@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dishes</key>
+	<dict>
+		<key>Fried Noodles</key>
+		<dict>
+			<key>details</key>
+			<string>Fried noodles is powerful weapon of choice</string>
+			<key>englishPhrase</key>
+			<string>want noodles, mista</string>
+			<key>image</key>
+			<string>fried-noodles.jpg</string>
+			<key>name</key>
+			<string>Fried Noodles</string>
+			<key>thaiPhrase</key>
+			<string>ผัดไทย</string>
+			<key>type</key>
+			<string>Dish</string>
+		</dict>
+		<key>Fried Rice</key>
+		<dict>
+			<key>name</key>
+			<string>Fried Rice</string>
+			<key>type</key>
+			<string>Dish</string>
+		</dict>
+		<key>Fried Vegetables</key>
+		<dict>
+			<key>name</key>
+			<string>Fried Vegetables</string>
+			<key>type</key>
+			<string>Dish</string>
+		</dict>
+		<key>Som Tam</key>
+		<dict>
+			<key>name</key>
+			<string>Som Tam</string>
+			<key>type</key>
+			<string>Dish</string>
+		</dict>
+		<key>Tom Yam</key>
+		<dict>
+			<key>name</key>
+			<string>Tom Yum</string>
+			<key>type</key>
+			<string>Dish</string>
+		</dict>
+	</dict>
+	<key>Exceptions</key>
+	<dict>
+		<key>No MSG</key>
+		<dict>
+			<key>name</key>
+			<string>No MSG</string>
+			<key>type</key>
+			<string>Exception</string>
+		</dict>
+		<key>Not spicy</key>
+		<dict>
+			<key>name</key>
+			<string>Not Spicy</string>
+			<key>type</key>
+			<string>Exception</string>
+		</dict>
+		<key>Vegeterian</key>
+		<dict>
+			<key>name</key>
+			<string>Vegetarian</string>
+			<key>type</key>
+			<string>Exception</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

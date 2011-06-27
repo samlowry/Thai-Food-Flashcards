@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Rice and noodles</string>		
+		<key>entries</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Khao Phat.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ข้าวผัด</string>
+				<key>englishPhrase</key>
+				<string>Khao Phat</string>
+				<key>name</key>
+				<string>Fried Rice</string>
+				<key>details</key>
+				<string>Rice, vegetables/meat/egg if you like, soy sauce.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>egg.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Khao Man Kai.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ข้าวมันไก่</string>
+				<key>englishPhrase</key>
+				<string>Khao Man Kai</string>
+				<key>name</key>
+				<string>Chicken Rice</string>
+				<key>details</key>
+				<string>Rice, garlic, chicken, chicken broth, a spicy dipping sauce.</string>
+				<key>buttons</key>
+				<array>
+					<string>chi.png</string>
+				</array>				
+				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Phat Thai.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ผัดไทย</string>
+				<key>englishPhrase</key>
+				<string>Phat Thai</string>
+				<key>name</key>
+				<string>Fried Rice Noodles</string>
+				<key>details</key>
+				<string>Pork/chicken/seafood/tofu/egg. Medium size rice noodles, soy sauce, sugar, tamarind juice, peanuts, bean sprouts, Chinese chives.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>egg.png</string>
+					<string>veg.png</string>
+				</array>
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Lad Na.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ราดหน้า</string>
+				<key>englishPhrase</key>
+				<string>Lad Na</string>
+				<key>name</key>
+				<string>Wide Fried Rice Noodles</string>
+				<key>details</key>
+				<string>Wide rice noodles, soy sauce, pork/tofu, chinese broccoli, tapioca flour.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>egg.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Phat Wun Sen.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ผัดวุ้นเส้น</string>
+				<key>englishPhrase</key>
+				<string>Phat Wun Sen</string>
+				<key>name</key>
+				<string>Stir-Fried Glass Noodles</string>
+				<key>details</key>
+				<string>Bean noodles, vegetables/meat/egg according to your choice.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>egg.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Soups</string>		
+		<key>entries</key>
+		<array>
+
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Tom Yam.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ต้มยำ</string>
+				<key>englishPhrase</key>
+				<string>Tom Yam</string>
+				<key>name</key>
+				<string>Tom Yam</string>
+				<key>details</key>
+				<string>Prawns or chicken broth with lemon grass, galangal, kaffir lime leaves, chillies and lime juice. If you want coconut milk in your soup, ask for Tom kha (ต้มข่า).</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Kuay Tiao.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ก๋วยเตี๋ยว</string>
+				<key>englishPhrase</key>
+				<string>Kuay Tiao</string>
+				<key>name</key>
+				<string>Noodles Soup</string>
+				<key>details</key>
+				<string>Rice noodles, meat and vegetables.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Khao Tom.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ข้าวต้ม</string>
+				<key>englishPhrase</key>
+				<string>Khao Tom</string>
+				<key>name</key>
+				<string>Rice Soup</string>
+				<key>details</key>
+				<string>Boiled rice, meat and vegetables.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Khao Soi.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ข้าวซอย</string>
+				<key>englishPhrase</key>
+				<string>Khao Soi</string>
+				<key>name</key>
+				<string>Khao Soi</string>
+				<key>details</key>
+				<string>Egg noodles, crispy egg noodles, meat, coconut milk, curry, soy sauce.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Tom Jet.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ต้มจืด</string>
+				<key>englishPhrase</key>
+				<string>Tom Jet</string>
+				<key>name</key>
+				<string>Vegetable Soup</string>
+				<key>details</key>
+				<string>Vegetables, meat, tofu, seaweed, glass noodles and mushroom.</string>
+				<key>buttons</key>
+				<array>
+					<string>chi.png</string>
+					<string>por.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Salads</string>		
+		<key>entries</key>
+		<array>			
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Som Tam.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ส้มตำ</string>
+				<key>englishPhrase</key>
+				<string>Som Tam</string>
+				<key>name</key>
+				<string>Green Papaya Salad</string>
+				<key>details</key>
+				<string>Green papaya, chillies, shrimps/crabs or fermented fish, tomatoes, long beens, fish and soy sauces.</string>
+				<key>buttons</key>
+				<array>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Yam Woon Sen.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ยำวุ้นเส้น</string>
+				<key>englishPhrase</key>
+				<string>Yam Woon Sen</string>
+				<key>name</key>
+				<string>Glass Noodle Salad</string>
+				<key>details</key>
+				<string>Glass noodle, meat and vegetables, chillies, soy sauce.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Lab.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ลาบ</string>
+				<key>englishPhrase</key>
+				<string>Lab</string>
+				<key>name</key>
+				<string>Northeastern Style Minced Meat Spicy Salad</string>
+				<key>details</key>
+				<string>Minced meat, onions, chillies, ground roasted rice and mint.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Yam Mamuang.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ยำมะม่วง</string>
+				<key>englishPhrase</key>
+				<string>Yam Mamuang</string>
+				<key>name</key>
+				<string>Green Mango Salad</string>
+				<key>details</key>
+				<string>Green mango, sugar, fish sauce, shrimps, onion, lime juice.</string>
+				<key>buttons</key>
+				<array>
+					<string>shr.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Tam Phonlamai Ruam.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ตำผลไม้รวม</string>
+				<key>englishPhrase</key>
+				<string>Tam Phonlamai Ruam</string>
+				<key>name</key>
+				<string>Fruit Salad</string>
+				<key>details</key>
+				<string>Fruits, garlic, sugar, chillies, dried shrimp, lime juice and soy sauce.</string>
+				<key>buttons</key>
+				<array>
+					<string>shr.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Yam Thale.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ยำทะเล</string>
+				<key>englishPhrase</key>
+				<string>Yam Thale</string>
+				<key>name</key>
+				<string>Seafood Salad</string>
+				<key>details</key>
+				<string>Seafood, shallots, lime juice and Thai celery.</string>
+				<key>buttons</key>
+				<array>
+					<string>sea.png</string>
+				</array>				
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Main dishes</string>		
+		<key>entries</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Gai Pad Met Mamuang.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ไก่ผัดเม็ดมะม่วง</string>
+				<key>englishPhrase</key>
+				<string>Gai Pad Met Mamuang</string>
+				<key>name</key>
+				<string>Stir-Fried Chicken With Cashew Nuts</string>
+				<key>details</key>
+				<string></string>
+				<key>buttons</key>
+				<array>
+					<string>chi.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Pad Pak Ruam.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ผัดผักรวม</string>
+				<key>englishPhrase</key>
+				<string>Pad Pak Ruam</string>
+				<key>name</key>
+				<string>Stir Fried Mixed Vegetables</string>
+				<key>details</key>
+				<string>Vegetables with soya or oyster sauce.</string>
+				<key>buttons</key>
+				<array>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Kung Thot Krathiam Phrik Thai.jpg</string>
+				<key>thaiPhrase</key>
+				<string>กุ้งทอดกระเทียมพริกไทย</string>
+				<key>englishPhrase</key>
+				<string>Kung Thot Krathiam Phrik Thai</string>
+				<key>name</key>
+				<string>Deep Fried Prawns With Garlic and Pepper</string>
+				<key>details</key>
+				<string></string>
+				<key>buttons</key>
+				<array>
+					<string>shr.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Phak Bung Fai Daeng.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ผักบุ้งไฟแดง</string>
+				<key>englishPhrase</key>
+				<string>Phak Bung Fai Daeng</string>
+				<key>name</key>
+				<string>Fried Morning-Glory</string>
+				<key>details</key>
+				<string>Morning glory, fermented soya beans sauce, chillies.</string>
+				<key>buttons</key>
+				<array>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Phat Kraphao.jpg</string>
+				<key>thaiPhrase</key>
+				<string>ผัดกะเพรา</string>
+				<key>englishPhrase</key>
+				<string>Phat Kraphao</string>
+				<key>name</key>
+				<string>Fried Meat With Holi Basil</string>
+				<key>details</key>
+				<string>Minced meat, prawns or tofu, Thai holy basil, chillies, garlic and soya sauce.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>No photo.png</string>
+				<key>thaiPhrase</key>
+				<string>ไก่ผัดขิง</string>
+				<key>englishPhrase</key>
+				<string>Gai Pad Khing</string>
+				<key>name</key>
+				<string>Fried Ginger Chicken</string>
+				<key>details</key>
+				<string>Chicken, ginger, fish sauce, chillies.</string>
+				<key>buttons</key>
+				<array>
+					<string>chi.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Kaeng Khiao Wan.jpg</string>
+				<key>thaiPhrase</key>
+				<string>แกงเขียวหวาน</string>
+				<key>englishPhrase</key>
+				<string>Kaeng Khiao Wan</string>
+				<key>name</key>
+				<string>Green Curry</string>
+				<key>details</key>
+				<string>Coconut cream, green chillies, Thai basil, chicken or fish balls.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Kaeng Phet.jpg</string>
+				<key>thaiPhrase</key>
+				<string>แกงเผ็ด</string>
+				<key>englishPhrase</key>
+				<string>Kaeng Phet</string>
+				<key>name</key>
+				<string>Red Curry</string>
+				<key>details</key>
+				<string>Dried chillies, coconut milk, meat/seafood/tofu, vegetables, green peppercorns, Thai basil.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Kaeng Phanaeng.jpg</string>
+				<key>thaiPhrase</key>
+				<string>แกงพะแนง</string>
+				<key>englishPhrase</key>
+				<string>Kaeng Phanaeng</string>
+				<key>name</key>
+				<string>Penang Curry</string>
+				<key>details</key>
+				<string>Meat/seafood/vegetables stir-fried in coconut milk wth indian spices. May contain peanuts and shrimp paste.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Dish</string>
+				<key>image</key>
+				<string>Kaeng Matsaman.jpg</string>
+				<key>thaiPhrase</key>
+				<string>แกงมัสมั่น</string>
+				<key>englishPhrase</key>
+				<string>Kaeng Matsaman</string>
+				<key>name</key>
+				<string>Massaman Curry</string>
+				<key>details</key>
+				<string>Meat/seafood/vegetables stir-fried in coconut cream wth indian spices, peanuts or cashews, potatoes.</string>
+				<key>buttons</key>
+				<array>
+					<string>por.png</string>
+					<string>bee.png</string>
+					<string>chi.png</string>
+					<string>shr.png</string>
+					<string>sea.png</string>
+					<string>veg.png</string>
+				</array>				
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Drinks</string>		
+		<key>entries</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<string>Drink</string>
+				<key>image</key>
+				<string>Gafae.jpg</string>
+				<key>thaiPhrase</key>
+				<string>กาแฟ</string>
+				<key>englishPhrase</key>
+				<string>Gafae</string>
+				<key>name</key>
+				<string>Coffee</string>
+				<key>details</key>
+				<string>Regular hot coffee, or ice coffee with condensed milk.</string>
+				<key>buttons</key>
+				<array>
+					<string>hot.png</string>
+					<string>ice2.png</string>
+				</array>				
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Drink</string>
+				<key>image</key>
+				<string>No photo.png</string>
+				<key>thaiPhrase</key>
+				<string>ชา</string>
+				<key>englishPhrase</key>
+				<string>Chaa</string>
+				<key>name</key>
+				<string>Tea</string>
+				<key>details</key>
+				<string>Regular hot tea (usually black Lipton or green jasmine tea), or ice Thai tea with condensed milk.</string>
+				<key>buttons</key>
+				<array>
+					<string>hot.png</string>
+					<string>ice2.png</string>
+				</array>				
+			</dict>		
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Exceptions</string>		
+		<key>entries</key>
+		<array>
+			<dict>
+				<key>type</key>
+				<string>Exception</string>
+				<key>image</key>
+				<string>No chilli.png</string>
+				<key>thaiPhrase</key>
+				<string>ไม่ใส่พริก</string>
+				<key>englishPhrase</key>
+				<string>Mai Sai Phrik</string>
+				<key>name</key>
+				<string>Don't Put Chilli</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Exception</string>
+				<key>image</key>
+				<string>Vegan.png</string>
+				<key>thaiPhrase</key>
+				<string>ทำอาหารเจ</string>
+				<key>englishPhrase</key>
+				<string>Tham Aharn Jay</string>
+				<key>name</key>
+				<string>Cook Vegetarian Dish</string>
+			</dict>
+			<dict>
+				<key>type</key>
+				<string>Exception</string>
+				<key>image</key>
+				<string>No msg.png</string>
+				<key>thaiPhrase</key>
+				<string>ไม่ใส่ผงชูรส</string>
+				<key>englishPhrase</key>
+				<string>Mai Sai Phong Chuu Roht</string>
+				<key>name</key>
+				<string>Don't Put MSG</string>
+			</dict>
+		</array>
+	</dict>
+	
+</array>
+</plist>
